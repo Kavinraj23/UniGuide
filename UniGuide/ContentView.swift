@@ -16,6 +16,7 @@ struct ContentView: View {
     //rohini says hello
     //anotha one
     //adiv says hi
+    //adiv says hi twice
 }
 
 struct ContentView_Previews: PreviewProvider {
