@@ -13,7 +13,7 @@ struct ContentView: View {
             .padding()
         Text("This is the UniGuide Repository").padding()
     }
-    //adiv says hi
+    //adiv says hi twice
 }
 
 struct ContentView_Previews: PreviewProvider {
