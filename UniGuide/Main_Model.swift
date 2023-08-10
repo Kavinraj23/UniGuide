@@ -28,3 +28,14 @@ struct PrettierInfo{
     let image: String
     let isBought: Bool?
 }
+
+struct Quiz{
+    let questions: [QuizQuestion]
+}
+
+struct QuizQuestion{
+    let id = UUID()
+    let realAnswer: String
+    var personAnswer: String?
+    let questions: [String]
+}
