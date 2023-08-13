@@ -31,6 +31,7 @@ struct PrettierInfo{
 
 struct Quiz{
     let questions: [QuizQuestion]
+    var percentage: Int = 0
 }
 
 struct QuizQuestion{
@@ -38,4 +39,5 @@ struct QuizQuestion{
     let realAnswer: String
     var personAnswer: String?
     let questions: [String]
+    let answeredRight: Bool?
 }
