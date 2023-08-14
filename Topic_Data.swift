@@ -191,8 +191,44 @@ import Foundation
              },
              {
                  "instruction": [
-                     "Introduce
+                     "Introduce yourself to classmates during the first few days of college.",
+                     "Attend club meetings and participate in group activities.",
+                     "Join study groups to meet fellow students and collaborate on assignments.",
+                     "Engage in group activities and events organized by student organizations."
+                 ]
+             },
+             {
+                 "example": [
+                     "Initiate conversations in common areas like lounges or the cafeteria.",
+                     "Offer to study together with classmates to strengthen your academic relationships.",
+                     "Attend social events on campus to meet new people and expand your social circle.",
+                     "Participate in extracurricular activities and volunteer projects to connect with others who share your interests."
+                 ]
+             }
+         ],
+         "title": "Making Friends",
+         "image": "friend_image",
+         "sectionsComplete": 3,
+         "quiz": {
+             "questions": [
+                 {
+                     "id": "ID_OF_QUIZ_QUESTION",
+                     "question": "How can you start making friends?",
+                     "realAnswer": "Introduce yourself to classmates",
+                     "personAnswer": null,
+                     "possibleAnswers": [
+                         "Introduce yourself to classmates",
+                         "Stay in your room all day",
+                         "Wait for others to approach you",
+                         "Attend classes without interacting with anyone"
+                     ],
+                     "answeredRight": null
+                 }
+             ],
+             "percentage": 0
+         }
+     }
+ ]
 
  
  */
- 
